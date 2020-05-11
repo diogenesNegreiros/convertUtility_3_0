@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  convertUtility
+
+  Created by Diogenes de Souza on 30/04/19.
+  Copyright © 2019 Empresa pessoal. All rights reserved.
+*/
+
+"CFBundleDisplayName" =  "BRL USD measures";
+"CFBundleName" = "BRL USD measures";

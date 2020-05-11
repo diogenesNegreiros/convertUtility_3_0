@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  convertUtility
+
+  Created by Diogenes de Souza on 30/04/19.
+  Copyright © 2019 Empresa pessoal. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "USD to BRL";
+"CFBundleName" = "USD to BRL";
+
+"textoDaCotacao" = "Value of the currency in brl on the date - ";
+"distancia" = "Distance";
+"quilometro" = "Kilometers";
+"milha" = "Mile";
+"peso" = "Weight";
+"quilograma" = "Kg";
+"libra" = "Pounds";
+"dolar" = "USD";
+"real" = "BRL";
+"velocidade" = "Speed";
+"temperatura" = "Temperature";
+"celsius" = "Cº";
+"faren" = "Fº";
+"moeda" = "Currency";
+"kmPorHora" = "Km/h";
+"mPorSeg" = "m/s";
+"falhaInternet"= "Dollar value in BRL is unavailable on the internet!";
+

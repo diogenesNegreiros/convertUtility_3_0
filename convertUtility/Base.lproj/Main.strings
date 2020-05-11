@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; normalTitle = "Dólar"; ObjectID = "1lh-Wj-DLq"; */
+"1lh-Wj-DLq.normalTitle" = "USD";
+
+/* Class = "UIButton"; normalTitle = "▶︎"; ObjectID = "FQL-s7-hku"; */
+"FQL-s7-hku.normalTitle" = "▶︎";
+
+/* Class = "UILabel"; text = "Currency"; ObjectID = "Gg1-1l-mBg"; */
+"Gg1-1l-mBg.text" = "Currency";
+
+/* Class = "UIButton"; normalTitle = "◀︎"; ObjectID = "Pa6-xH-reR"; */
+"Pa6-xH-reR.normalTitle" = "◀︎";
+
+/* Class = "UITextField"; placeholder = "cotação"; ObjectID = "e82-x6-AaN"; */
+"e82-x6-AaN.placeholder" = "price";
+
+/* Class = "UIButton"; normalTitle = "🔃"; ObjectID = "rVU-bd-i6T"; */
+"rVU-bd-i6T.normalTitle" = "🔃";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "sIN-QJ-h5V"; */
+"sIN-QJ-h5V.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Real"; ObjectID = "yj0-6t-nga"; */
+"yj0-6t-nga.normalTitle" = "BRL";

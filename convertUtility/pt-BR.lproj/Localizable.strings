@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  convertUtility
+
+  Created by Diogenes de Souza on 30/04/19.
+  Copyright © 2019 Empresa pessoal. All rights reserved.
+*/
+
+"CFBundleDisplayName" = "USD to BRL";
+"CFBundleName" = "USD to BRL";
+
+"textoDaCotacao" = "Cotação mais alta para o dólar em: ";
+"distancia" = "Distância";
+"quilometro" = "Quilômetros";
+"milha" = "Milhas";
+"peso" = "Peso";
+"quilograma" = "Quilogramas";
+"libra" = "Libras";
+"dolar" = "Dolares";
+"real" = "Reais";
+"velocidade" = "Velocidade";
+"temperatura" = "Temperatura";
+"celsius" = "Célsius";
+"faren" = "Fahrenheit";
+"moeda" = "Moéda";
+"kmPorHora" = "Quilômetros/h";
+"mPorSeg" = "Metros/seg";
+"falhaInternet"= "Valor do dólar está indisponível na internet!";
