@@ -156,7 +156,7 @@ class ViewController: UIViewController {
     @IBAction func backTitle(_ sender: UIButton) {
         
         switch titleScreen.text {
-        case "Moéda", "Currency":
+        case "Moeda", "Currency":
             titleScreen.text = NSLocalizedString("peso", comment: "")
             button1.setTitle(NSLocalizedString("quilograma", comment: ""), for: .normal)
             button2.setTitle(NSLocalizedString("libra", comment: "") , for:.normal)
@@ -242,7 +242,7 @@ class ViewController: UIViewController {
             cotacao.isHidden = false
             cotacaoText.text! = ""
             
-        case "Moéda", "Currency":
+        case "Moeda", "Currency":
             titleScreen.text = NSLocalizedString("velocidade", comment: "")
             button1.setTitle(NSLocalizedString("mPorSeg", comment: ""), for: .normal)
             button2.setTitle(NSLocalizedString("kmPorHora", comment: "") , for:.normal)
@@ -276,7 +276,7 @@ class ViewController: UIViewController {
         }
         
         switch titleScreen.text! {
-        case "Moéda", "Currency":
+        case "Moeda", "Currency":
             calcCurrency()
         case "Peso", "Weight":
             calcWeight()

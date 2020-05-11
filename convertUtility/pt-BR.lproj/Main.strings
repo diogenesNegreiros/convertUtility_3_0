@@ -6,7 +6,7 @@
 "FQL-s7-hku.normalTitle" = "▶︎";
 
 /* Class = "UILabel"; text = "Currency"; ObjectID = "Gg1-1l-mBg"; */
-"Gg1-1l-mBg.text" = "Moéda";
+"Gg1-1l-mBg.text" = "Moeda";
 
 /* Class = "UIButton"; normalTitle = "◀︎"; ObjectID = "Pa6-xH-reR"; */
 "Pa6-xH-reR.normalTitle" = "◀︎";

@@ -22,7 +22,7 @@
 "temperatura" = "Temperatura";
 "celsius" = "Célsius";
 "faren" = "Fahrenheit";
-"moeda" = "Moéda";
+"moeda" = "Moeda";
 "kmPorHora" = "Quilômetros/h";
 "mPorSeg" = "Metros/seg";
 "falhaInternet"= "Valor do dólar está indisponível na internet!";
