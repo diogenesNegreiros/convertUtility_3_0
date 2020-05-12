@@ -105,12 +105,12 @@ class ViewController: UIViewController {
         
        
         
-        interstitial = GADInterstitial(adUnitID: "ca-app-pub-7764785023267812/1930155425")
+        interstitial = GADInterstitial(adUnitID: "ca-app-pub-3940256099942544/1033173712") //id de teste
         let request = GADRequest()
         interstitial.load(request)
         
         bannerView = GADBannerView(adSize: kGADAdSizeBanner)
-        bannerView.adUnitID = "ca-app-pub-7764785023267812/7717567099"
+        bannerView.adUnitID = "ca-app-pub-3940256099942544/6300978111"  //id de teste
         bannerView.rootViewController = self
         
         addBannerViewToView(bannerView)
@@ -214,7 +214,7 @@ class ViewController: UIViewController {
         
         if interstitial.isReady {
             interstitial.present(fromRootViewController: self)
-            interstitial = GADInterstitial(adUnitID: "ca-app-pub-7764785023267812/1930155425")
+            interstitial = GADInterstitial(adUnitID: "ca-app-pub-3940256099942544/1033173712") //id de teste
             let request = GADRequest()
             interstitial.load(request)
         } else {
